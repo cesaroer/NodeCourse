@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/app.js",
-    "dev": "echo hola mundo desde dev"
+    "start:dev": "echo hola mundo desde dev",
+    "start:stage": "echo hola mundo desde dev"
   },
   "author": "Cesar Vargas",
   "license": "ISC"
