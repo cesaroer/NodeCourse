@@ -9,6 +9,6 @@
     "start:dev": "echo hola mundo desde dev",
     "start:stage": "echo hola mundo desde dev"
   },
-  "author": "Cesar Vargas Cardenas",
+  "author": "Cesar  Roberto  Vargas Cardenas",
   "license": "ISC"
 }
